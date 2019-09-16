@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cv
+Sitemap: http://www.robsonvinicius.com/sitemap.xml
