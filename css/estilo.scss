@@ -1,8 +1,14 @@
-$pattern-color: #6200ee;
-$font-stack: helvetica, serif;
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+$pattern-color: #005fee;
+$font-stack: 'Raleway', sans-serif;
+
 
 * {
 	font-family: $font-stack;
+}
+
+.brand-logo {
+	margin-top: 3px;
 }
 
 .slider .slides li .caption {
