@@ -1,5 +1,3 @@
-# Robson Vinicius de Oliveira :man_technologist:
-
 <!--
 ### Hi there 👋
 **robsonvinicius/robsonvinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
