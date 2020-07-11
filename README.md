@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 🌍 And I also like to travel
+
 :man_technologist:
 
+My name is Robson and ...:
 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/robsonvinicius/)](https://www.youtube.com/user/robsonvinicius/)
 
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Robson and ...:
+My name is Robson and...
 
  - 😄 I really like to learn
  - 📊 I'm working with Graphic Design, UI/UX Design and Front End
