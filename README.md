@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 My name is Robson and ...:
 
  - 😄 I really like to learn
- - 📊 I'm working with UI/UX Design, Graphic Design and Front End
+ - 📊 I'm working with Graphic Design, UI/UX Design and Front End
  - 📚 Currently studying UX/UI and React
  - 🌍 And I also like to travel
