@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 🌍 And I also like to travel
+
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/robsonvinicius/)](https://www.youtube.com/user/robsonvinicius/)
 
 -->
@@ -29,4 +31,4 @@ My name is Robson and ...:
  - 😄 I really like to learn
  - 📊 I'm working with Graphic Design, UI/UX Design and Front End
  - 📚 Currently studying UX/UI and React
- - 🌍 And I also like to travel
+ 
