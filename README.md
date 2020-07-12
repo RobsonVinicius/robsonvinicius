@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 My name is Robson and ...:
 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/robsonvinicius/)](https://www.youtube.com/user/robsonvinicius/)
+[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-CC3366?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-053EFF?style=flat-square&logo=Behance&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 
 -->
 
@@ -27,6 +29,7 @@ My name is Robson and ...:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
+
 ### Hellooo! 👋 Welcome to my profile
 
 My name is Robson and...
