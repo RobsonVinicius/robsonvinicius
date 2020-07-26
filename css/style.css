@@ -1,7 +1,7 @@
 *{margin: 0;padding: 0;}
-body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: antialiased;}
-#nav-bar{position: sticky;top: 0;z-index: 10;}
-.navbar{background: linear-gradient(to right, #1488CC,#2B32B2);padding: 0 !important; }
+body{background-color: #fff;-webkit-font-smoothing: antialiased;}
+
+.navbar{background: linear-gradient(to right, #1488CC,#2B32B2);padding: 0 !important; position: fixed; top: 0; z-index: 10;}
 /* Logo resize */
 .navbar-brand img{height: 4rem;padding-left: 3rem;}
 .navbar-nav{margin-right: 3rem;}
@@ -24,7 +24,7 @@ body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: anti
 .img-fluid{margin-top: 4rem;}
 .bottom-img{width: 100%;}
 /* ---------- Services --------- */
-#services{padding: 50px 0; }
+#services{padding: 50px 0;}
 .service-img{width: 130px; margin-top: 2rem;}
 .services{padding: 20px; }
 .services h4{padding: 1em; margin-top: 5px; text-transform: uppercase;}
