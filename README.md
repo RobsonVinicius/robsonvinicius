@@ -23,6 +23,8 @@ My name is Robson and ...:
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-CC3366?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-053EFF?style=flat-square&logo=Behance&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 
+[![](https://img.shields.io/twitter/url?color=lightblue&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Felicavalheiro)](https://www.linkedin.com/in/elimaracavalheiro/) [![](https://img.shields.io/twitter/url?color=blue&label=Behance&logo=Behance&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Felimaracavalhe)](https://www.behance.net/elimaracavalhe) ![](https://img.shields.io/badge/Portfolio-soon-green?style=for-the-badge)
+
 [![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/milenacarecho/)
 
 -->
