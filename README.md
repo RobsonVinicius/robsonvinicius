@@ -44,3 +44,10 @@ My name is Robson and...
  - 📊 I'm working with Graphic Design, UI/UX Design and Front End
  - 📚 Currently studying UX/UI and React
  
+ 
+ <!-- Gráfico de linguagens mais utilizadas 
+ ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&theme=blue-green)
+
+-->
+ 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
