@@ -53,4 +53,4 @@ My name is Robson and...
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  
- [![Robson's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Robson's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
