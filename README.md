@@ -38,8 +38,6 @@ My name is Robson and ...:
 
  </div>
 
- <br>
-
 ### Hellooo! 👋 Welcome to my profile
 
 My name is Robson and...
