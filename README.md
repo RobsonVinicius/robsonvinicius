@@ -31,12 +31,12 @@ My name is Robson and ...:
 
 # Robson Vinicius de Oliveira 
 
- <div align="right">
+ <span align="right">
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 
- </div>
+ </span>
 
 ### Hellooo! 👋 Welcome to my profile
 
