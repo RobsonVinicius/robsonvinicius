@@ -51,29 +51,6 @@ My name is Robson and...
  
 </span>
 
-<br>
-
- <!-- Gráfico de linguagens mais utilizadas 
- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&theme=blue-green)
-
--->
-
-
-[![Robson's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
- 
-<!-- Alinhamento 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true" />
-</a>
-
--->
-
 ## 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -95,3 +72,30 @@ My name is Robson and...
 
 
 <br><br>
+
+<br>
+
+ <!-- Gráfico de linguagens mais utilizadas 
+ ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&theme=blue-green)
+
+-->
+
+
+
+
+[![Robson's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+ 
+<!-- Alinhamento 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true" />
+</a>
+
+-->
+
+
