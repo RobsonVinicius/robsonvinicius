@@ -35,7 +35,7 @@ My name is Robson and ...:
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-1DA1F2?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
 
 </span>
 
