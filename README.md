@@ -31,23 +31,25 @@ My name is Robson and ...:
 
 # Robson Vinicius de Oliveira 
 
-<span align="right">
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
-
- </span>
-
+<div align="left">
 ### Hellooo! 👋 Welcome to my profile
 
-<span align="left">
 My name is Robson and...
 
  - 😄 I really like to learn
  - 📊 I'm working with Graphic Design, UI/UX Design and Front End
  - 📚 Currently studying UX/UI and React
  
-</span>
+</div>
+
+<div align="right">
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
+
+ </div>
+
+
  <br>
  
  <!-- Gráfico de linguagens mais utilizadas 
