@@ -31,6 +31,10 @@ My name is Robson and ...:
 
 # Robson Vinicius de Oliveira 
 
+
+
+<img src="https://github.com/iuricode/iuricode/blob/master/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+
 <span align="left">
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
