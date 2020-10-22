@@ -29,7 +29,7 @@ My name is Robson and ...:
 
 -->
 
-<img src="images/image-readme.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="images/animation-readme.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
 
 # Robson Vinicius de Oliveira 
 
