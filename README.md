@@ -42,8 +42,12 @@ My name is Robson and ...:
 </span>
 
 <span align="left">
+
+## Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Welcome to my profile
  
+<!-- 
 ### Hellooo! 👋 Welcome to my profile
+-->
 
 My name is Robson and...
 
