@@ -29,11 +29,9 @@ My name is Robson and ...:
 
 -->
 
-# Robson Vinicius de Oliveira 
-
-
-
 <img src="https://github.com/iuricode/iuricode/blob/master/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+
+# Robson Vinicius de Oliveira 
 
 <span align="left">
  
