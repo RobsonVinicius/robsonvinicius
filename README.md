@@ -49,8 +49,6 @@ My name is Robson and...
  
 </span>
 
-<br>
-
 <span align="left">
  
 ### You can find me on
