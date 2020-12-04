@@ -49,6 +49,8 @@ My name is Robson and...
  
 </span>
 
+<br>
+
 <span align="left">
  
 **You can find me on** 
@@ -58,8 +60,6 @@ My name is Robson and...
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
 
 </span>
-
-<br>
 
 ## 
 
