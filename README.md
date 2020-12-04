@@ -43,9 +43,10 @@ My name is Robson and ...:
 
 My name is Robson and...
 
- - 😄 I really like to learn
+ <!-- - 😄 I really like to learn --> 
  - 📊 I'm working with Graphic Design, UI/UX Design and Front End
  - 📚 Currently studying UX/UI and React
+ - 🏡 Brazilian, Based in Curitiba-PR 
  
 </span>
 
