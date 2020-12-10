@@ -102,7 +102,7 @@ My name is Robson and...
 --> 
  
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs&show_icons=true&include_all_commits=true&layout=compact&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&theme=default" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
