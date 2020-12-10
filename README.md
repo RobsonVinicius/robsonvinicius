@@ -100,11 +100,11 @@ My name is Robson and...
 --> 
  
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true&hide_border=false&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=material-palenight" />
 </a>
 
 
