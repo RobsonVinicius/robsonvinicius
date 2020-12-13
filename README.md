@@ -83,6 +83,8 @@ My name is Robson and...
 <img align="left" alt="Figma" width="27px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" />
 
 
 
