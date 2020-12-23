@@ -87,6 +87,7 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.eventil.com/uploads/event/logo/297/sketch.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" />
 
 <img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
