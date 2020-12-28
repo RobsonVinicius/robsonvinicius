@@ -100,9 +100,8 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 
 <img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" />
 
-<!--
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
---> 
+ 
 
 
 
