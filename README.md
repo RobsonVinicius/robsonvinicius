@@ -123,13 +123,13 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 
 --> 
- 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=react" />
-</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=react" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=react" />
 </a>
 
 
