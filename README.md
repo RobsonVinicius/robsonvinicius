@@ -29,17 +29,9 @@ My name is Robson and ...:
 
 -->
 
-<img src="images/animation-readme.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="images/animation-readme.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
 
 # Robson Vinicius de Oliveira 
-
-<span align="left">
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
-
-</span>
 
 <span align="left">
 
@@ -51,14 +43,28 @@ My name is Robson and ...:
 
 My name is Robson and...
 
- - 😄 I really like to learn
+ <!-- - 😄 I really like to learn --> 
  - 📊 I'm working with Graphic Design, UI/UX Design and Front End
  - 📚 Currently studying UX/UI and React
+ - 🏡 Brazilian, Based in Curitiba-PR 
  
 </span>
 
 ## 
 
+<span align="left">
+ 
+### You can find me on:
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+
+</span>
+
+##
+
+### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -70,11 +76,34 @@ My name is Robson and...
 <!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
 <!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
-<!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+<!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
+<img align="left" alt="Figma" width="27px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
+
+<img align="left" alt="Adobe XD" width="26px" src="https://cdn.eventil.com/uploads/event/logo/297/sketch.png" />
+<img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://zeplin.io/img/icZeplin.svg" />
+
+<!--
+<img align="left" alt="Adobe XD" width="26px" src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" />
+--> 
+
+<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" />
+
+
+<img align="left" alt="Adobe XD" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" />
+
+<!--
+<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
+--> 
+
 
 
 <br><br>
@@ -91,17 +120,18 @@ My name is Robson and...
 
 [![Robson's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 
 --> 
- 
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=dark" />
 </a>
+
 
 
 
