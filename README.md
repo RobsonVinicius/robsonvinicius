@@ -29,7 +29,7 @@ My name is Robson and ...:
 
 -->
 
-<img src="images/animation-readme-2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="images/animation-readme-3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
 
 # Robson Vinicius de Oliveira 
 
@@ -125,11 +125,11 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 --> 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=algolia" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=algolia" />
 </a>
 
 
