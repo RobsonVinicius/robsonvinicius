@@ -29,7 +29,7 @@ My name is Robson and ...:
 
 -->
 
-<img src="images/animation-readme-1-1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="images/Comp-2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
 
 # Robson Vinicius de Oliveira 
 
@@ -56,9 +56,14 @@ My name is Robson and...
  
 ### You can find me on:
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+ <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+--> 
+[![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+[![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+
 
 </span>
 
@@ -125,11 +130,11 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 --> 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=nord" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=nord" />
 </a>
 
 
