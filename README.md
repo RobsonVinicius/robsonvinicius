@@ -56,9 +56,14 @@ My name is Robson and...
  
 ### You can find me on:
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+ <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+--> 
+[![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+[![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+
 
 </span>
 
