@@ -91,7 +91,7 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.eventil.com/uploads/event/logo/297/sketch.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
-<img align="left" alt="Adobe XD" width="26px" src="https://zeplin.io/img/icZeplin.svg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://zeplin.io/img/Zeplin.svg" />
 
 <!--
 <img align="left" alt="Adobe XD" width="26px" src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" />
