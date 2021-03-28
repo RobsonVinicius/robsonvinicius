@@ -92,7 +92,7 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 <img align="left" alt="Sketch" width="26px" src="https://cdn.eventil.com/uploads/event/logo/297/sketch.png" />
 <img align="left" alt="Invision" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
 
-<img align="left" alt="Framer" width="26px" src="https://raw.githubusercontent.com/podo/awesome-framer/master/logo.png" />
+<img align="left" alt="Framer" width="26px" src="https://hackr.io/tutorials/learn-framer/logo/logo-framer?ver=1587724699" />
 
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" />
 
