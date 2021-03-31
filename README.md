@@ -92,9 +92,9 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 <img align="left" alt="Sketch" width="26px" src="https://cdn.eventil.com/uploads/event/logo/297/sketch.png" />
 <img align="left" alt="Invision" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
 
-
+<!--
 <img align="left" alt="Framer" width="26px" src="https://e1.pngegg.com/pngimages/188/872/png-clipart-macos-app-icons-framer-thumbnail.png" />
-
+--> 
 
 
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" />
