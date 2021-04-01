@@ -99,9 +99,9 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" />
 
-<!--
+
 <img align="left" alt="Miro" width="26px" src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" />
---> 
+
 
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
