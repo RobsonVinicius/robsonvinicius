@@ -88,8 +88,9 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 <img align="left" alt="Figma" width="27px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
-
+<!--
 <img align="left" alt="Sketch" width="26px" src="https://cdn.eventil.com/uploads/event/logo/297/sketch.png" />
+--> 
 <img align="left" alt="Invision" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
 
 <!--
