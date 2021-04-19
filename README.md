@@ -72,66 +72,49 @@ My name is Robson and...
 ### Languages and Tools:
 
 <!--
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> -->
-<!-- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
-<!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
-<!--
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-<!--
-<img align="left" alt="Figma" width="27px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
-<!--
-<img align="left" alt="Sketch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.png" />
-<!--
-<img align="left" alt="Invision" width="26px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" />
--->
-<!--
 <img align="left" alt="Framer" width="26px" src="https://e1.pngegg.com/pngimages/188/872/png-clipart-macos-app-icons-framer-thumbnail.png" />
--->
-<!--
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" />
-
-<!--
 <img align="left" alt="Miro" width="26px" src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" />
--->
-<!--
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />
 <img align="left" alt="Premiere" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" />
 <img align="left" alt="After Effects" width="26px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" />
-
-
+<img align="left" alt="Vegas Pro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
+-->
 
 <!--
-<img align="left" alt="Vegas Pro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
-</p>
 
---docker
+-- docker --
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+
+-- figma --
+
 
 -- firebase -- 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 -- flutter --
-</a> <!--  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+
+-- Gatsby -- 
+<a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" alt="flutter" width="40" height="40"/> </a>
+
+-- Github --
+<a href="https://flutter.dev" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+" alt="github" width="40" height="40"/> </a>
+
+-- GraphQL --
+<a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="flutter" width="40" height="40"/> </a>
 
 -- go --
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
 -- hexo -- 
 </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a>
+
+-- InVision -- 
+</a> <a href="hexo.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="Invision" width="40" height="40"/> </a>
 
 -- java --
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -163,21 +146,27 @@ https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
 -- React Native --
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 
+-- Sass -- 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>
+
+-- Sketchapp -- 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.pngg" alt="sass" width="40" height="40"/> </a>
+
+-- Terminal -- 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="sass" width="40" height="40"/> </a>
+
 -- VueJS -- 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 
 -- webpack --
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 
-
-
 -->
+
+
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-
-
-
-<br><br>
+<br>
 
 <br>
 
