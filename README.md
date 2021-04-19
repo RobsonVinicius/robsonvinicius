@@ -170,19 +170,15 @@ My name is Robson and...
 
 <br>
 
-<br>
-
- <!-- Gráfico de linguagens mais utilizadas 
- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&theme=blue-green)
--->
-
-
 <!--
+-- Gráfico de linguagens mais utilizadas -- 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&theme=blue-green)
 
+-- Gráficos Stats -- 
 [![Robson's github stats](https://github-readme-stats.vercel.app/api?username=RobsonVinicius&theme=default&hide=contribs,prs,stars&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+-- Top Langs -- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
-
 --> 
 
 <a href="https://github.com/anuraghazra/convoychat">
