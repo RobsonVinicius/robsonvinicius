@@ -71,34 +71,37 @@ My name is Robson and...
 
 ### Languages and Tools:
 
-
-<!--
-<img align="left" alt="Framer" width="26px" src="https://e1.pngegg.com/pngimages/188/872/png-clipart-macos-app-icons-framer-thumbnail.png" />
-<img align="left" alt="Zeplin" width="26px" src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" />
-<img align="left" alt="Miro" width="26px" src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" />
-<img align="left" alt="Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />
-<img align="left" alt="Premiere" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" />
-<img align="left" alt="After Effects" width="26px" src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" />
-<img align="left" alt="Vegas Pro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" />
--->
-
 <!--
 
 -- Adobe XD -- 
 <a href="https://www.adobe.com/br/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/> </a>
 
--- docker --
+-- Adobe After Effects --
+<a href="https://www.adobe.com/br/products/xd.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" alt="After Effects" width="40" height="40"/> </a>
+
+-- Adobe Illustrator --
+<a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/> </a>
+
+-- Adobe Photoshop --
+<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
+
+-- Adobe Premiere --
+<a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="Adobe XD" width="40" height="40"/> </a>
+
+-- Docker --
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
--- figma --
+-- Figma --
 <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
 
--- firebase -- 
+-- Firebase -- 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
--- flutter --
+-- Flutter --
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+
+-- Framer -- 
+<a href="https://flutter.dev" target="_blank"> <img src="https://e1.pngegg.com/pngimages/188/872/png-clipart-macos-app-icons-framer-thumbnail.png" alt="flutter" width="40" height="40"/> </a>
 
 -- Gatsby -- 
 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" alt="flutter" width="40" height="40"/> </a>
@@ -110,7 +113,7 @@ My name is Robson and...
 -- GraphQL --
 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="flutter" width="40" height="40"/> </a>
 
--- go --
+-- Go --
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
 -- hexo -- 
@@ -133,6 +136,9 @@ My name is Robson and...
 
 -- linux -- 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+-- Miro -- 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://miro.com/static/images/layout/footer/mr-footer-1/footer-logo.svg?cbh=4ea473632763c4d09f06016a9f154477" alt="miro" width="40" height="40"/> </a>
 
 -- MongoDB -- 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -158,15 +164,22 @@ My name is Robson and...
 -- Terminal -- 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="sass" width="40" height="40"/> </a>
 
+-- Vegas -- 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="sass" width="40" height="40"/> </a>
+
 -- VueJS -- 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 
 -- webpack --
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 
+-- zeplin -- 
+<a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" alt="zeplin" width="40" height="40"/> </a>
+
 -->
 
-<p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/products/xd.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/aftereffects.svg" alt="Adobe XD" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="Adobe XD" width="40" height="40"/> </a>
+</p>
 
 <br>
 
