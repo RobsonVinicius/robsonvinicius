@@ -4,7 +4,7 @@
 
 <span align="left">
 
-### Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Welcome to my profile
+### Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Welcome to my profile <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
  
 My name is Robson and...
 
