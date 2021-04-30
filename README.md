@@ -40,7 +40,6 @@ My name is Robson and...
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> &nbsp;
 <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="35" height="35"/> </a> &nbsp;
-<a href="https://www.framer.com/" target="_blank"> <img src="https://e1.pngegg.com/pngimages/188/872/png-clipart-macos-app-icons-framer-thumbnail.png" alt="framer" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.adobe.com/br/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="35" height="35"/> </a> &nbsp;
 <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="35" height="35"/> </a> &nbsp;
 <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="Photoshop" width="35" height="35"/> </a> &nbsp;
