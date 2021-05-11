@@ -1,4 +1,4 @@
-<img src="images/animation-readme-6.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="images/animation-readme-6.gif" min-width="400px" max-width="600px" width="460px" align="right" alt="image">
 
 # Robson Vinicius de Oliveira 
 
