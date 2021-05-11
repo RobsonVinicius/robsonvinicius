@@ -1,5 +1,7 @@
-<img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/hello.gif" align="center" alt="image">
-
+<p align="center">
+  <img src="images/readme/hello.gif" width="500" align="center" alt="image">
+</p>
+                                                                           
 <!--
      # Robson Vinicius de Oliveira 
      Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
