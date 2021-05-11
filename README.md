@@ -1,4 +1,4 @@
-<img src="images/animation-readme-3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="images/animation-readme-6.gif" min-width="400px" max-width="600px" width="460px" align="right" alt="image">
 
 # Robson Vinicius de Oliveira 
 
@@ -8,9 +8,9 @@
  
 My name is Robson and...  
 
- - 📊 I'm working with Graphic Design, UI/UX Design and Front End
- - 📚 Currently studying UX/UI and React
- - 🏡 Brazilian, Based in Curitiba-PR 
+ 📊 I'm working with Design, UI/UX and Front End<br>
+ 📚 Currently studying UX/UI and ReactJS<br>
+ 🏡 Brazilian, Based in Curitiba-PR<br>
  
 </span>
 
