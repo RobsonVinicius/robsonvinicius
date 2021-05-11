@@ -1,17 +1,15 @@
-<p align="center">
-  <img src="images/readme/hello.gif" width="650" align="center" alt="image">
-</p>
-                                                                           
 <!--
-     # Robson Vinicius de Oliveira 
-     Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+ # Robson Vinicius de Oliveira 
 -->
 
 <img src="images/animation-readme-6.gif" min-width="400px" max-width="600px" width="460px" align="right" alt="image">
 
 <span align="left">
 
-##  Welcome to my profile
+<img src="images/readme/hello.gif" width="100" alt="image"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+
+### Welcome to my profile
  
 My name is Robson and...  
 
