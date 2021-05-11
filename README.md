@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/readme/hello.gif" width="500" align="center" alt="image">
+  <img src="images/readme/hello.gif" align="center" alt="image">
 </p>
                                                                            
 <!--
@@ -11,7 +11,7 @@
 
 <span align="left">
 
-###  Welcome to my profile
+##  Welcome to my profile
  
 My name is Robson and...  
 
