@@ -8,9 +8,9 @@
  
 My name is Robson and...  
 
- 📊 I'm working with Graphic Design, UI/UX Design and Front End
- 📚 Currently studying UX/UI and React
- 🏡 Brazilian, Based in Curitiba-PR 
+ 📊 I'm working with Graphic Design, UI/UX Design and Front End<br>
+ 📚 Currently studying UX/UI and React<br>
+ 🏡 Brazilian, Based in Curitiba-PR<br>
  
 </span>
 
