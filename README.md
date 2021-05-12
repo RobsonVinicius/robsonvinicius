@@ -23,7 +23,7 @@ My name is Robson and...
 
 <span align="left">
  
-### You can find me on:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/lightning.gif" width="15"> You can find me on:
 
 [![Linkedin Shield](https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Shields](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
