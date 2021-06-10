@@ -1,5 +1,9 @@
 <!--
 
+APOIO NA CONSTRUÇÃO: https://readme.so/pt
+
+
+
 APRESENTAÇÃO
 
 ### Hellooo! 👋 Welcome to my profile
