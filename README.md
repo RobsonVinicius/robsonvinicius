@@ -56,7 +56,7 @@ My name is Robson and...
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=false&theme=chartreuse-dark&langs_count=8&hide=Rich Text Format,TSQL,hack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=false&theme=react&langs_count=8&hide=Rich Text Format,TSQL,hack" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
