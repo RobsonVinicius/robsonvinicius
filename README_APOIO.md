@@ -1,5 +1,3 @@
-<!--
-
 APOIO NA CONSTRUÇÃO: https://readme.so/pt
 
 
@@ -40,9 +38,25 @@ BADGES
 
 [![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/milenacarecho/)
 
- <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-vinicius/)](https://www.linkedin.com/in/robson-vinicius/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/robsonviniciusr/)](https://www.twitter.com/robsonviniciusr/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius)
+
+
+[![HTML Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+
+[![HTML Badge](https://img.shields.io/badge/-HTML-f67c01?style=for-the-badge&labelColor=black&logo=html5&logoColor=f67c01)](#)
+
+[![Css Badge](https://img.shields.io/badge/-CSS-30ace0?style=for-the-badge&labelColor=black&logo=css3&logoColor=30ace0)](#)
+
+[![Sass Badge](https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=cc6699)](#)
+
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8612fb?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8612fb)](#) 
+
+
+[![Linkein Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/robson-vinicius) 
 
 
 LANGUAGES AND TOOLS
@@ -162,7 +176,7 @@ LANGUAGES AND TOOLS
 
 GRÁFICO DE ESTÁTISTICAS
 
-<!--
+
 -- Gráfico de linguagens mais utilizadas -- 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&theme=blue-green)
 
@@ -172,7 +186,7 @@ GRÁFICO DE ESTÁTISTICAS
 -- Top Langs -- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 
---> 
+
 
 
 
