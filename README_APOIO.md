@@ -190,9 +190,74 @@ My name is Robson and ...:
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
 
+<br>
+
+## Animations
+
+### Hello
+<img src="images/readme/Hi.gif" width="50px" height="50px" align="left" alt="image">
+
+<br><br>
+
+### Dino Google
+<img src="images/readme/dino.gif" min-width="400px" max-width="500px" align="left" alt="image">
+
+<br><br><br>
+
+### Emoji Glasses
+<img src="images/readme/emoji.gif" width="50px" align="left" alt="image">
+
+<br><br>
+
+### Hello Type
+<img src="images/readme/hello.gif" width="200px" align="left" alt="image">
+
+<br><br><br>
+
+### Letterbox
+<img src="images/readme/letterbox.gif" width="200px" align="left" alt="image">
+
+<br><br><br><br><br><br><br><br><br><br>
+
+### Lightning
+<img src="images/readme/lightning.gif" width="50px" align="left" alt="image">
+
+<br><br><br>
+
+### Message
+<img src="images/readme/message.gif" width="50px" align="left" alt="image">
+
+<br><br><br>
+
+### This page is
+<img src="images/readme/this_page_is.gif" max-width="500px" align="left" alt="image">
+
+<br><br><br>
 
 
+<img src="images/Comp-2.gif" width="400px" align="left" alt="image">
 
+<br><br><br>
 
+<!-- Computador -->
+<img src="images/animation-readme-2.gif" max-width="500px" align="left" alt="image">
 
+<br><br><br>
 
+<img src="images/animation-readme-3.gif" max-width="500px" align="left" alt="image">
+
+<br><br><br>
+
+<img src="images/animation-readme-4.gif" max-width="500px" align="left" alt="image">
+
+<br><br><br>
+
+<img src="images/animation-readme-5.gif" max-width="500px" align="left" alt="image">
+
+<br><br><br>
+
+<img src="images/animation-readme-6.gif" max-width="500px" align="left" alt="image">
+
+<br><br><br>
+
+<img src="images/animation-readme-7.gif" max-width="500px" align="left" alt="image">
