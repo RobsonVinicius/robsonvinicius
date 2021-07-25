@@ -240,24 +240,24 @@ My name is Robson and ...:
 <br><br><br>
 
 <!-- Computador -->
-<img src="images/animation-readme-2.gif" max-width="500px" align="left" alt="image">
+<img src="images/animation-readme-2.gif" width="500px" align="left" alt="image">
 
 <br><br><br>
 
-<img src="images/animation-readme-3.gif" max-width="500px" align="left" alt="image">
+<img src="images/animation-readme-3.gif" width="500px" align="left" alt="image">
 
 <br><br><br>
 
-<img src="images/animation-readme-4.gif" max-width="500px" align="left" alt="image">
+<img src="images/animation-readme-4.gif" width="500px" align="left" alt="image">
 
 <br><br><br>
 
-<img src="images/animation-readme-5.gif" max-width="500px" align="left" alt="image">
+<img src="images/animation-readme-5.gif" width="500px" align="left" alt="image">
 
 <br><br><br>
 
-<img src="images/animation-readme-6.gif" max-width="500px" align="left" alt="image">
+<img src="images/animation-readme-6.gif" width="500px" align="left" alt="image">
 
 <br><br><br>
 
-<img src="images/animation-readme-7.gif" max-width="500px" align="left" alt="image">
+<img src="images/animation-readme-7.gif" width="500px" align="left" alt="image">
