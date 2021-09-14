@@ -3,7 +3,7 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
  # Robson Vinicius de Oliveira 
 -->
 
-<img src="images/animation-readme-8.gif" min-width="400px" max-width="600px" width="500px" align="right" alt="image">
+<img src="images/animation-readme-11.gif" min-width="400px" max-width="600px" width="500px" align="right" alt="image">
 
 <span align="left">
 
@@ -56,11 +56,11 @@ My name is Robson and...
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=nord&langs_count=8&hide=Rich Text Format,TSQL,hack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=Rich Text Format,TSQL,hack" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=dark" />
 </a>
 
 
