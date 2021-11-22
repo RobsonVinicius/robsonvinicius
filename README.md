@@ -55,7 +55,7 @@ My name is Robson and...
 
 <br>
 
-| <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=city_lights" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&langs_count=8&hide=Rich Text Format,TSQL,hack&theme=city_lights" /></a> |
+| <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=react" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&langs_count=8&hide=Rich Text Format,TSQL,hack&theme=react" /></a> |
 | ------------- | ------------- |
 
 
