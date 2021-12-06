@@ -1,0 +1,41 @@
+/* Reset CSS */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;  
+}
+
+a {
+  text-decoration: none;
+}
+
+.header .social-line {
+  background: #000;  
+  width: 100%;
+  height: 40px;
+}
+
+.header .social-container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.header .social-container .social-group {
+  height: 100%;  
+  display: flex;  
+  justify-content: flex-end; 
+  line-height: 2;
+}
+
+.header .social-group i {
+  color: rgb(170, 170, 170);  
+  font-size: 18px;  
+  margin-left: 30px;  
+  transition: .3s;
+}
+
+.header .social-group i:hover {
+  color: #fff;  
+}
