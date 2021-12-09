@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&display=swap');
+
 /* Reset CSS */
 * {
   box-sizing: border-box;
@@ -51,7 +53,7 @@ a {
 }
 
 .header .nav .logo {
-  width: 180px;
+  height: 65px;
 }
 
 .header .nav .nav-list {
@@ -60,8 +62,8 @@ a {
 }
 
 .header .nav-list li {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1rem;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.1rem;
   font-weight: 500;
   text-transform: uppercase;
   margin-left: 30px;
