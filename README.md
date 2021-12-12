@@ -21,6 +21,8 @@ My name is Robson and...
 
 ## 
 
+<br/>
+
 <span align="left">
  
 ### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/emoji.gif" width="30"> You can find me on:
@@ -30,6 +32,8 @@ My name is Robson and...
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius) 
 
 </span>
+
+<br/>
 
 ##
 
