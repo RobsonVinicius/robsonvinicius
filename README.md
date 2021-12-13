@@ -3,7 +3,7 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
  # Robson Vinicius de Oliveira 
 -->
 
-<img src="images/animation-readme-28.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="images/animation-readme-11-alt.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
 
 <span align="left">
 
@@ -21,8 +21,6 @@ My name is Robson and...
 
 ## 
 
-<br/>
-
 <span align="left">
  
 ### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/emoji.gif" width="30"> You can find me on:
@@ -32,8 +30,6 @@ My name is Robson and...
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/robsonvinicius)](https://codepen.io/robsonvinicius) 
 
 </span>
-
-<br/>
 
 ##
 
