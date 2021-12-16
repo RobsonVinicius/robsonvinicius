@@ -23,7 +23,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .banner a{color: #fff; text-decoration: none!important;}
 .img-fluid{margin-top: 4rem;}
 .bottom-img{width: 100%;}
-@media screen and (max-width: 425px) {.promo-title{font-size: 2.3rem;} .join-title{font-size: 1.3rem;} .blockquote{font-size: 1.11rem!important} }
+@media screen and (max-width: 425px) {.promo-title{font-size: 2.3rem;} .join-title{font-size: 1.3rem;} .blockquote{font-size: 1.11rem!important;} }
 /* ---------- Services --------- */
 #services{padding: 50px 0;}
 .service-img{width: 130px; margin-top: 2rem;}
