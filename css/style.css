@@ -10,10 +10,11 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .navbar-nav .nav-item .nav-link{color: #fff !important; font-weight: 600; float: right; text-align: left;}
 .navbar-nav .nav-item .nav-link:hover{color: #9da5ff!important;}
 .fa-bars{color: #fff !important; font-size: 25px !important;}
-.navbar-toggler{outline: none !important; border: 1px solid #fff!important; margin-right: 20px; padding: 7px 10px;}
+.navbar-toggler{outline: none !important; border: 1px solid #fff!important; margin-right: 15px; padding: 7px 10px;}
+@media screen and (max-width: 425px) { .navbar-brand img{padding-left: .5rem;} }
 /* --------- Banner ---------- */
 .banner{background: linear-gradient(to right, #1488CC,#2B32B2);color: #fff; padding-top: 8%; }
-.promo-title{font-size: 3rem; font-weight: 600; margin-top: 3em; margin-bottom: 0}
+.promo-title{font-size: 3rem; font-weight: 600; margin-top: 3em; margin-bottom: 0;}
 .join-title{font-size: 1.44rem; line-height: 1; margin-left: .1rem}
 .link-play{text-decoration: none;}
 .link-play:hover{color: #58f0ff;text-decoration: none!important;}
@@ -22,6 +23,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .banner a{color: #fff; text-decoration: none!important;}
 .img-fluid{margin-top: 4rem;}
 .bottom-img{width: 100%;}
+@media screen and (max-width: 425px) {.promo-title{font-size: 2.3rem;} .join-title{font-size: 1.3rem;} .blockquote{font-size: 1.11rem!important} }
 /* ---------- Services --------- */
 #services{padding: 50px 0;}
 .service-img{width: 130px; margin-top: 2rem;}
