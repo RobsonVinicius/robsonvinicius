@@ -53,6 +53,15 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .about-title{font-size: 1.6em; margin-top: 8%; font-weight: 600;}
 #about ul li{margin: 10px 0;}
 #about ul{margin-left: 20px;}
+/* ------------ Portfolio ---------------------- */
+.card {width: 22rem;}
+.card4,.card5,.card6,.card7,.card8,.card9 {margin-top: 2rem}
+@media screen and (max-width: 1192px) { .card {width: 28rem;} .card3{ margin-top: 2rem} }
+@media screen and (max-width: 990px) { .card {width: 21rem;} .card3{ margin-top: 2rem} }
+@media screen and (max-width: 768px) { .card {width: 16rem;} .card3{ margin-top: 2rem} }
+@media screen and (max-width: 510px) { .card {width: 13rem; margin-left: 5px; margin-right: 5px } .card3{ margin-top: 2rem} }
+@media screen and (max-width: 436px) { .card {width: 25rem; margin: 20px;} }
+
 /* ----- Footer ------*/
 #footer{background: linear-gradient(to right, #1723b1,#58f0ff); color: #fff;}
 .footer-img{width: 100%;}
