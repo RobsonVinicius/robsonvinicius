@@ -65,38 +65,17 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 @media screen and (max-width: 510px) { .card {width: 13rem; margin-left: 5px; margin-right: 5px } .card3{ margin-top: 2rem} }
 @media screen and (max-width: 436px) { .card {width: 25rem; margin: 20px;} }
 
-/* ----- Footer ------*/
-#footer{background: linear-gradient(to right, #1723b1,#58f0ff); color: #fff;}
-.footer-img{width: 100%;}
+/* ------- Call ------- */
+#call {background: linear-gradient(to right, #1723b1,#58f0ff); color: #fff;}
 .footer-box{padding: 20px;}
-.footer-box img{width: 4rem; margin-bottom: 20px;}
-.footer-box .fa{
-  margin-right: 8px;
-  font-size: 25px;
-  height: 40px;
-  width: 40px;
-  text-align: center;
-  padding-top: 7px;
-  border-radius: 2px;
-  display: inline-block;
-}
-.footer-box .form-control{box-shadow: none !important; border: none; border-radius: 0; margin: 20px 0;}
-.footer-box .btn-primary{
-  box-shadow: none !important;
-  width: 8rem;
-  border: none; border-radius: 50px;
-  background: linear-gradient(to right, #1723b1,#58f0ff);
-  color: #fff;transition: transform 1.2s;
-}
-.footer-box .btn-primary:hover{transform: scale(1.2); color: #fff;}
-/*-------- Social Media icons ---------- */
-#social p{font-weight: 600; font-size: 16px; margin-top: 20px;}
-#social .social-icons .svg-icons img{width: 23px;transition: transform .7s;margin-right: 1rem;}
-#social .social-icons .svg-icons img:hover{transform: scale(1.2);}
+#call p{font-weight: 600; font-size: 16px; margin-top: 20px;}
+
+/* ----- Footer ------*/
+#footer{color: #fff;}
+
 .copyright{padding-top: 1rem; font-size: 15px; text-align: center}
 .copyright a{text-decoration: none;color: #fff; }
 .copyright a:hover{text-decoration: none;color: #1723b1;}
-
 
 /* Animation */
 .parallax>use {
