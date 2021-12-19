@@ -71,12 +71,12 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 #call p{font-weight: 600; font-size: 16px; margin-top: 20px;}
 
 /* ------- Contact -------- */
-#contact {  color: #fff; } 
-#contact img { height: 70px }
+#contact {  color: #000; } 
+#contact img { height: 65px }
 #contact .h6 { font-size: 1.2rem}
-#contact p { font-size: 1.1rem}
+#contact p:last-child { font-size: 1.1rem; font-weight: 400}
 #contact .social-icons { display: flex; justify-content: end}
-#contact .social-icons i { color: #fff; transition: 500ms}
+#contact .social-icons i { color: #000; transition: 500ms}
 #contact .social-icons i:hover { color: rgb(12, 137, 255); transform: scale(1.2)}
 
 
