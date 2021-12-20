@@ -74,10 +74,10 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 #contact {  color: #000; } 
 #contact img { height: 65px }
 #contact p:last-child { font-size: 1.1rem; font-weight: 400}
-#contact .social-icons { display: flex; justify-content: end}
+#contact .social-icons { display: flex; justify-content: end; margin-right: 3rem}
 #contact .social-icons i { color: #000; transition: 500ms}
 #contact .social-icons i:hover { color: rgb(12, 137, 255); transform: scale(1.2)}
-
+@media screen and (max-width: 436px) {  #contact .col-sm-12 { display: flex; justify-content: center; } #contact .social-icons {  margin-right: 0 } }
 
 /* ----- Footer ------*/
 #footer{ background: #000; color: #fff;}
