@@ -76,7 +76,13 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 #contact p:last-child { font-size: 1.1rem; font-weight: 400}
 #contact .social-icons { display: flex; justify-content: end; margin-right: 3rem}
 #contact .social-icons i { color: #000; transition: 500ms}
-#contact .social-icons i:hover { color: rgb(12, 137, 255); transform: scale(1.2)}
+#contact .social-icons i:hover { transform: scale(1.2)}
+#contact .social-icons .fa-whatsapp { color: #25D366}
+#contact .social-icons .fa-whatsapp:hover { color: #128C7E}
+#contact .social-icons .fa-twitter{ color: #1DA1F2}
+#contact .social-icons .fa-twitter:hover { color: #657786} 
+#contact .social-icons .fa-linkedin { color: #2867B2} 
+#contact .social-icons .fa-linkedin:hover { color: #000} 
 @media screen and (max-width: 436px) {  #contact .col-sm-12 { display: flex; justify-content: center; } #contact .social-icons {  margin-right: 0 } }
 
 /* ----- Footer ------*/
