@@ -71,8 +71,8 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 #call p{font-weight: 600; font-size: 16px; margin-top: 20px;}
 
 /* ------- Contact -------- */
-#contact {  color: #000; } 
-#contact img { height: 65px }
+#contact {  color: #e9ecef; background: #343a40;} 
+#contact img { height: 80px }
 #contact p:last-child { font-size: 1.1rem; font-weight: 400}
 #contact .social-icons { display: flex; justify-content: end; margin-right: 3rem}
 #contact .social-icons .fa-whatsapp { color: #25D366}
