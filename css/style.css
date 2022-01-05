@@ -52,7 +52,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 }
 #services .btn-primary:hover{transform: scale(1.2);}
 /* -----------   About -------------*/
-#about{background-color: #f8f9fa; padding-bottom: 3rem; padding-top: 3rem;}
+#about{background-color: #edf2ff; padding-bottom: 3rem; padding-top: 3rem;}
 .about-title{font-size: 1.6em; margin-top: 8%; font-weight: 600;}
 #about ul li{margin: 10px 0;}
 #about ul{margin-left: 20px;}
