@@ -78,7 +78,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 #contact .social-icons .fa-whatsapp { color: #25D366}
 #contact .social-icons .fa-twitter{ color: #1DA1F2}
 #contact .social-icons .fa-linkedin { color: #2867B2} 
-#contact .icon-link { display: flex; text-decoration: none; font-size: 2rem; width: 3.5rem; height: 3.5rem; background: #f7f7f7; border-radius: 20px;  box-shadow: 3px 3px 5px rgba(0, 0, 0, .15), -6px -6px 12px rgba(255, 255, 255, .1); overflow: hidden;  transition: .2s linear;  }
+#contact .icon-link { display: flex; text-decoration: none; font-size: 2rem; width: 3.5rem; height: 3.5rem; background: #f7f7f7; border-radius: 15px;  box-shadow: 3px 3px 5px rgba(0, 0, 0, .15), -6px -6px 12px rgba(255, 255, 255, .1); overflow: hidden;  transition: .2s linear;  }
 .icon-link i { margin: auto }
 .icon-link:hover { transform: scale(1.2); }
 @media screen and (max-width: 436px) {  #contact .col-sm-12 { display: flex; justify-content: center; } #contact .social-icons {  margin-right: 0 } }
