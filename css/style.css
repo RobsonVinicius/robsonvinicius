@@ -70,7 +70,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 @media screen and (max-width: 990px) { .card {width: 21rem;} .card3{ margin-top: 2rem} }
 @media screen and (max-width: 768px) { .card {width: 16rem;} .card3{ margin-top: 2rem} }
 @media screen and (max-width: 510px) { .card {width: 13rem; margin-left: 5px; margin-right: 5px } .card3{ margin-top: 2rem} }
-@media screen and (max-width: 436px) { .card {width: 25rem; margin: 20px;} .card-title { font-size: 1.5rem; } .card-text { font-size: 1.2rem; } }
+@media screen and (max-width: 436px) { .card {width: 25rem; margin: 20px;} .card-title { font-size: 1.5rem; } .card-text { font-size: 1.2rem; } .btn { font-size: 1.2rem }}
 
 /* ------- Call ------- */
 #call {background: linear-gradient(to right, #1723b1,#58f0ff); color: #fff;}
