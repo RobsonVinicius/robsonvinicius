@@ -19,6 +19,9 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .social-icons-banner {width: 50px; position: fixed; top: 45%; right: 0; transform: translateY(-50%); z-index: 1;}
 .social-icons-banner i { display: block; font-size: 23px; width: 35px; margin: 0 auto 20px; cursor: pointer; color: #b3d7ff; transition: 300ms}
 .social-icons-banner i:hover { color: #7ec1ff; transform: scale(1.2)}
+
+@media screen and (max-width: 425px) { .social-icons-banner { display: none; } }
+
 .join-title{font-size: 1.44rem; line-height: 1; margin-left: .1rem}
 .link-play{text-decoration: none;}
 .link-play:hover{color: #58f0ff;text-decoration: none!important;}
@@ -52,7 +55,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 }
 #services .btn-primary:hover{transform: scale(1.2);}
 
-@media screen and (max-width: 425px) { #services p { font-size: 1.2rem }
+@media screen and (max-width: 425px) { #services p { font-size: 1.2rem } }
 /* -----------   About -------------*/
 #about{background-color: #edf2ff; padding-bottom: 3rem; padding-top: 3rem;}
 .about-title{font-size: 1.6em; margin-top: 8%; font-weight: 600;}
@@ -122,6 +125,3 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
       transform: translate3d(85px, 0, 0);
   }
 }
-
-
-
