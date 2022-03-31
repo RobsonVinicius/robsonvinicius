@@ -51,13 +51,15 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
   transition: transform 1.2s;
 }
 #services .btn-primary:hover{transform: scale(1.2);}
+
+@media screen and (max-width: 425px) { #services p { font-size: 1.2rem }
 /* -----------   About -------------*/
 #about{background-color: #edf2ff; padding-bottom: 3rem; padding-top: 3rem;}
 .about-title{font-size: 1.6em; margin-top: 8%; font-weight: 600;}
 #about ul li{margin: 10px 0;}
 #about ul{margin-left: 20px;}
 
-@media screen and (max-width: 425px) { .about-title{font-size: 2.2em; margin-top: 15%; line-height: 1.2; font-weight: 600;} .about :nth-child(2) { font-size: 1.2rem; } }
+@media screen and (max-width: 425px) { .about-title{font-size: 2.2em; margin-top: 15%; line-height: 1.2; font-weight: 600;} .about :nth-child(2) { font-size: 1.2rem; } .about :nth-child(3) { font-size: 1.2rem; } }
 /* ------------ Portfolio ---------------------- */
 .card {width: 22rem;}
 .card4,.card5,.card6,.card7,.card8,.card9 {margin-top: 2rem}
