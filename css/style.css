@@ -12,7 +12,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .navbar-nav .nav-item:last-child { padding-right: 0;}
 .fa-bars{color: #fff !important; font-size: 25px !important;}
 .navbar-toggler{outline: none !important; border: 1px solid #fff!important; margin-right: 15px; padding: 7px 10px;}
-@media screen and (max-width: 425px) { .navbar-brand img{padding-left: .5rem;} .navbar-nav .nav-item:last-child { padding-right: 1rem} }
+@media screen and (max-width: 425px) { .navbar-brand img{padding-left: .5rem;} .navbar-nav .nav-item:last-child { padding-right: 1rem} .navbar-collapse { padding-bottom: 38px; } }
 /* --------- Banner ---------- */
 .banner{background: linear-gradient(to right, #1488CC,#2B32B2);color: #fff; padding-top: 8%; }
 .promo-title{font-size: 3rem; font-weight: 600; margin-top: 3em; margin-bottom: 0;}
