@@ -19,11 +19,6 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .social-icons-banner {width: 50px; position: fixed; top: 45%; right: 0; transform: translateY(-50%); z-index: 1;}
 .social-icons-banner i { display: block; font-size: 23px; width: 35px; margin: 0 auto 20px; cursor: pointer; color: #b3d7ff; transition: 300ms}
 .social-icons-banner i:hover { color: #7ec1ff; transform: scale(1.2)}
-
-@media screen and (max-width: 425px) { .social-icons-banner { display: none; } }
-
-@media screen and (max-width: 768px) { .promo-title { font-size: 2rem; } }
-
 .join-title{font-size: 1.44rem; line-height: 1; margin-left: .1rem}
 .link-play{text-decoration: none;}
 .link-play:hover{color: #58f0ff;text-decoration: none!important;}
@@ -32,7 +27,8 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 .banner a{color: #fff; text-decoration: none!important;}
 .img-fluid{margin-top: 4rem;}
 .bottom-img{width: 100%;}
-@media screen and (max-width: 425px) {.promo-title{font-size: 2.3rem;} .join-title{font-size: 1.4rem;} .blockquote{font-size: 1.3rem!important;} }
+@media screen and (max-width: 768px) { .promo-title { font-size: 2rem; } }
+@media screen and (max-width: 425px) {.promo-title{font-size: 2.3rem;} .join-title{font-size: 1.4rem;} .blockquote{font-size: 1.3rem!important;} .social-icons-banner { display: none; } }
 /* ---------- Services --------- */
 #services{padding: 50px 0;}
 .service-img{width: 130px; margin-top: 2rem;}
