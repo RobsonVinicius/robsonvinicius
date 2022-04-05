@@ -22,6 +22,8 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 
 @media screen and (max-width: 425px) { .social-icons-banner { display: none; } }
 
+@media screen and (max-width: 768px) { .promo-title { font-size: 2rem; } }
+
 .join-title{font-size: 1.44rem; line-height: 1; margin-left: .1rem}
 .link-play{text-decoration: none;}
 .link-play:hover{color: #58f0ff;text-decoration: none!important;}
