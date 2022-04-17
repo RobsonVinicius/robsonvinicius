@@ -3,11 +3,8 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
  # Robson Vinicius de Oliveira 
 -->
 
-<<<<<<< HEAD
 <img src="images/readme/animation-readme-9.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
-=======
-<img src="images/readme/animation-readme-7.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
->>>>>>> 0d7c5b486d0f50c9232d2a4ca1186fbf0dd73d18
+
 
 <span align="left">
 
