@@ -54,11 +54,10 @@ My name is Robson and...
 
 </p>
 
-<br>
 
 ##
 
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/lightning.gif" width="15"> Study Pins:
+### 💼 Study Pins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Design&theme=github_dark&hide_border=true&show_owner")](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&theme=github_dark&hide_border=true&show_owner")](https://github.com/anuraghazra/github-readme-stats)
