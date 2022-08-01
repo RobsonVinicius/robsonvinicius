@@ -56,6 +56,17 @@ My name is Robson and...
 
 <br>
 
+##
+
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/lightning.gif" width="15"> Study Pins:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Design&theme=github_dark&hide_border=true&show_owner")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&theme=github_dark&hide_border=true&show_owner")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=engenharia-de-requisitos&theme=github_dark&hide_border=true&show_owner")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&theme=github_dark&hide_border=true&show_owner")](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
 
 | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=github_dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&langs_count=8&hide=Rich Text Format,TSQL,hack&theme=github_dark" /></a> |
 | ------------- | ------------- |
