@@ -36,6 +36,8 @@ My name is Robson and...
 
 ### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/lightning.gif" width="15"> Languages and Tools:
 
+###
+
 <p align="left"> 
  
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="35" height="35"/> </a> &nbsp;
@@ -58,6 +60,8 @@ My name is Robson and...
 ##
 
 ### 💼 Study Pins:
+
+###
 
 <div align="center">
 
