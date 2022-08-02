@@ -59,11 +59,14 @@ My name is Robson and...
 
 ### 💼 Study Pins:
 
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Design&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-Design)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/Scrum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=engenharia-de-requisitos&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/engenharia-de-requisitos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-research)
 
+</div>
 
 <br>
 
