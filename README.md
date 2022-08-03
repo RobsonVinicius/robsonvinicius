@@ -71,6 +71,8 @@ My name is Robson and...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-research)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=performance-web&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/performance-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=excel&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/excel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Kanban&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/Kanban)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=COBIT&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/COBIT)
 
 </div>
 
