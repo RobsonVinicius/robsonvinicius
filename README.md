@@ -69,9 +69,8 @@ My name is Robson and...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/Scrum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=engenharia-de-requisitos&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/engenharia-de-requisitos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-research)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=excel&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/excel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=ITIL-Foundation
-&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/ITIL-Foundation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=performance-web&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/performance-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=ITIL-Foundation&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/ITIL-Foundation)
 
 </div>
 
