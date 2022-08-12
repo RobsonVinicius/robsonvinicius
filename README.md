@@ -3,7 +3,7 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
  # Robson Vinicius de Oliveira 
 -->
 
-<img src="images/readme/image-readme7.png" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="images/readme/animations/animation-readme-18.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
 
 
 <span align="left">
@@ -77,11 +77,11 @@ My name is Robson and...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=ITIL-Foundation&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/ITIL-Foundation)
 
 </div>
-
+<!--
 ##
 
 <br>
-<!--
+
 | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs,prs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=github_dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonVinicius&layout=compact&hide_border=true&langs_count=8&hide=Rich Text Format,TSQL,hack&theme=github_dark" /></a> |
 | ------------- | ------------- |
 -->
