@@ -59,7 +59,7 @@ My name is Robson and...
 
 ##
 
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/quadro-negro.gif" width="26"> Study Pins:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/book.gif" width="26"> Study Pins:
 
 ###
 
