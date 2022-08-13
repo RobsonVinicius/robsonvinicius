@@ -59,7 +59,7 @@ My name is Robson and...
 
 ##
 
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/livro.gif" width="25"> Study Pins:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/quadro-negro.gif" width="26"> Study Pins:
 
 ###
 
@@ -80,7 +80,7 @@ My name is Robson and...
 
 ##
 
-### 📈 Stats:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/computador-portatil.gif" width="26"> Stats:
 
 <br>
 
