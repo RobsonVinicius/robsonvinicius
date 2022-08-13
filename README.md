@@ -80,8 +80,6 @@ My name is Robson and...
 
 ##
 
-<br>
-
 ### 📈 Stats:
 
 <br>
