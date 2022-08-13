@@ -59,7 +59,7 @@ My name is Robson and...
 
 ##
 
-### 💼 Study Pins:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/livro.gif" width="25"> Study Pins:
 
 ###
 
