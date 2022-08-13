@@ -80,7 +80,7 @@ My name is Robson and...
 
 ##
 
-### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/computador-portatil.gif" width="26"> Stats:
+### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/chart-growth-lineal.gif" width="26"> Stats:
 
 <br>
 
