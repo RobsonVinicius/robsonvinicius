@@ -3,7 +3,7 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
  # Robson Vinicius de Oliveira 
 -->
 
-<img src="images/readme/animations/animation-readme-18.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="images/readme/animations/animation-readme-11.alt.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
 
 
 <span align="left">
@@ -65,16 +65,16 @@ My name is Robson and...
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Design&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-Design)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/Scrum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=engenharia-de-requisitos&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/engenharia-de-requisitos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-research)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=performance-web&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/performance-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=excel&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/excel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Kanban&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/Kanban)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=COBIT&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/COBIT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Git&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/Git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=ITIL-Foundation&theme=github_dark&hide_border=true&show_owner")](https://github.com/robsonvinicius/ITIL-Foundation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Design&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-Design)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Scrum&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/Scrum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=engenharia-de-requisitos&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/engenharia-de-requisitos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=UX-Research&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/UX-research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=performance-web&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/performance-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=excel&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/excel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Kanban&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/Kanban)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=COBIT&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/COBIT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=Git&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/Git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonvinicius&repo=ITIL-Foundation&theme=codeSTACKr&hide_border=true&show_owner")](https://github.com/robsonvinicius/ITIL-Foundation)
 
 </div>
 
@@ -89,7 +89,7 @@ My name is Robson and...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius)
 -->
 
-| <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=great-gatsby" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius) |
+| <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=codeSTACKr" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,Rich%20Text%20Format%0A&theme=codeSTACKr)](https://github.com/robsonvinicius) |
 | ------------- | ------------- |
 
 
