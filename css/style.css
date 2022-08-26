@@ -30,9 +30,9 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 @media screen and (max-width: 768px) { .promo-title { font-size: 2rem; } }
 @media screen and (max-width: 425px) {.promo-title{font-size: 2.3rem;} .join-title{font-size: 1.4rem;} .blockquote{font-size: 1.3rem!important;} .social-icons-banner { display: none; } }
 /* ---------- Services --------- */
-#services{padding: 50px 0;}
+#services{padding: 50px 0 0px 0;}
 .service-img{width: 130px; margin-top: 2rem;}
-.services{padding: 20px; }
+.services{padding-bottom: 30px; }
 .services h4{padding: 1em; margin-top: 5px; text-transform: uppercase;}
 .title::after{
   content: '';
@@ -55,7 +55,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 
 @media screen and (max-width: 425px) { #services p { font-size: 1.2rem } }
 /* -----------   About -------------*/
-#about{background-color: #edf2ff; padding-bottom: 3rem; padding-top: 3rem;}
+#about{background-color: #edf2ff; padding-bottom: 0rem; padding-top: 3rem;}
 .about-title{font-size: 1.6em; margin-top: 8%; font-weight: 600;}
 #about ul li{margin: 10px 0;}
 #about ul{margin-left: 20px;}
