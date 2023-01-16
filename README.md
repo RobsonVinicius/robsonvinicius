@@ -55,7 +55,7 @@ My name is Robson and...
 <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="Premiere" width="35" height="35"/> </a>
 
 </p>
-
+<!-- Retirar depois
 ##
 
 ### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/chart-growth-lineal.gif" width="26"> Stats:
@@ -67,7 +67,7 @@ My name is Robson and...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius)
 -->
 
-
+<!-- Retirar depois
 | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=nord" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,Rich%20Text%20Format%0A&theme=nord)](https://github.com/robsonvinicius) |
 | ------------- | ------------- |
 
