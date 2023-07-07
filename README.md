@@ -4,7 +4,7 @@ Hellooo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 -->
 
 
-<img src="images/readme/animations/animation-readme-1.1.1.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
+<img src="images/readme/animations/animation-readme-2.gif" min-width="400px" max-width="600px" width="450px" align="right" alt="image">
 
 
 <span align="left">
