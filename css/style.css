@@ -5,7 +5,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 /* Logo resize */
 .navbar-brand img{height: 4rem;margin-top: 3px;padding-left: 3rem;}
 .navbar-nav{margin-right: 3rem;}
-.navbar-nav li{padding: 0 1rem;}
+.navbar-nav li{padding: 0 1rem; font-size: 1.1rem}
 .navbar-nav .nav-item .nav-link{color: #fff !important; font-weight: 600; float: right; text-align: left;}
 .navbar-nav .nav-item .nav-link:hover{color: #9da5ff!important;}
 .navbar-nav .nav-item:last-child { padding-right: 0;}
