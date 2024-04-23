@@ -63,15 +63,15 @@ My name is Robson and...
 
 <br>
 
-
+<!--
 ![Robson Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvinicius&show_icons=true&hide=contribs,prs&include_all_commits=true&layout=compact&hide_border=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius)
 -->
 
-
+<!--
 | <a href="https://github.com/robsonvinicius"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonVinicius&hide=contribs&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&theme=holi" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,Rich%20Text%20Format%0A&theme=holi)](https://github.com/robsonvinicius) |
 | ------------- | ------------- |
-
+-->
 ##
 
 ### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/book.gif" width="26"> Study Pins:
