@@ -14,7 +14,7 @@ body{background-color: #fff;-webkit-font-smoothing: antialiased;}
 @media screen and (max-width: 425px) { .navbar-brand img{padding-left: .5rem;} .navbar-nav .nav-item:last-child { padding-right: 1rem} .navbar-collapse { padding-bottom: 38px; } }
 /* --------- Banner ---------- */
 .banner{background: linear-gradient(to right, #1488CC,#2B32B2);color: #fff; padding-top: 8%; }
-.promo-title{font-size: 3rem; font-weight: 600; margin-top: 3em; margin-bottom: 0;}
+.promo-title{font-size: 2.5rem; font-weight: 600; margin-top: 4em; margin-bottom: 0;}
 .social-icons-banner {width: 50px; position: fixed; top: 45%; right: 0; transform: translateY(-50%); z-index: 1;}
 .social-icons-banner i { display: block; font-size: 23px; width: 35px; margin: 0 auto 20px; cursor: pointer; color: #b3d7ff; transition: 300ms}
 .social-icons-banner i:hover { color: #7ec1ff; transform: scale(1.2)}
