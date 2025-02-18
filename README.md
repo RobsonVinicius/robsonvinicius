@@ -64,8 +64,8 @@ My name is Robson and...
 
 
 
-![Robson Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvinicius&show_icons=true&hide=contribs,prs&include_all_commits=true&layout=compact&hide_border=true&theme=great-gatsby&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=great-gatsby)](https://github.com/robsonvinicius)
+![Robson Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvinicius&show_icons=true&hide=contribs,prs&include_all_commits=true&layout=compact&hide_border=true&theme=blue_navy&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvinicius&layout=compact&hide_border=true&langs_count=8&hide=TSQL,hack,html,less,shell,Rich%20Text%20Format%0A&theme=blue_navy)](https://github.com/robsonvinicius)
 
 
 <!--
