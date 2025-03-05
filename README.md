@@ -56,10 +56,10 @@ My name is Robson and...
 <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="Premiere" width="35" height="35"/> </a>
 
 </p>
-<!--
+
 ##
 
-<!--
+
 ### <img src="https://github.com/RobsonVinicius/robsonvinicius/blob/master/images/readme/chart-growth-lineal.gif" width="26"> Stats:
 
 
